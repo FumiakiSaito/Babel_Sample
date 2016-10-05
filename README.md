@@ -2,6 +2,7 @@
 (開発にのみBabelを使うのでdevとする)
 
 ```
+npm init 
 npm install --save-dev babel-cli
 ```
 
